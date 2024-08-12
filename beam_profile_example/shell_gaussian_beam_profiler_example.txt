@@ -1,0 +1,16 @@
+CS165MU1: opening...
+CS165MU1: -> open and ready.
+CS165MU1(0): applying settings...
+CS165MU1: requested image size (pixels)
+CS165MU1:  = max x max (height x width)
+CS165MU1: legal image size (pixels)
+CS165MU1:  = 1080 x 1440 (height x width)
+CS165MU1: roi = {'left': 0, 'right': 1439, 'up': 0, 'down': 1079}
+CS165MU1(0): -> done applying settings.
+d0_mm = 3.842, 3.499, 1.098 (x, y, x/y)
+("Ctrl-C" to exit)
+d0_mm = 3.851, 3.486, 1.105 (x, y, x/y)
+("Ctrl-C" to exit)
+d0_mm = 3.850, 3.467, 1.110 (x, y, x/y)
+("Ctrl-C" to exit)
+CS165MU1: closing... done.
