@@ -1,5 +1,5 @@
 # alignment_laser
-How to build a simple alignment laser for typical optical alignment tasks
+How to build a simple alignment laser for typical optical alignment tasks.
 ## Overview:
 This alignment laser is fast and simple to build, and easy to move around the lab. It can be used for most alignment tasks, from simple arrangements (e.g. placing a few mirrors) to complex systems (e.g. building sophisticated microscopes).
 
