@@ -40,4 +40,4 @@ Download the repository, go to the [photos](https://github.com/amsikking/alignme
 If the testing goes smoothly, the portable alignment laser is now ready to use!
 
 ## Acknowledgments:
-Inspired by, or with contributions from: [jlazzaridean](https://github.com/jlazzaridean), [fadero](https://github.com/fadero) and [AndrewGYork](https://github.com/AndrewGYork).
+Inspired by, and with contributions from: [jlazzaridean](https://github.com/jlazzaridean), [fadero](https://github.com/fadero) and [AndrewGYork](https://github.com/AndrewGYork).
