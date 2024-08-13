@@ -22,7 +22,7 @@ Go to the [cad](https://github.com/amsikking/alignment_laser/tree/main/cad) fold
 ## Test:
 Download the repository, go to the [photos](https://github.com/amsikking/alignment_laser/tree/main/photos) folder and follow the numbered photos:
 
-0) [**Check parts**](https://github.com/amsikking/alignment_laser/blob/main/photos/0_all_parts_used.jpg): to follow exactly you’ll need these extra parts from Thorlabs:
+0) [**Check parts:**](https://github.com/amsikking/alignment_laser/blob/main/photos/0_all_parts_used.jpg) to follow exactly you’ll need these extra parts from Thorlabs:
     - Absorptive ND filter wheel (or filter set) for beam attenuation: NDC-100S-4M or NEK01 (or both).
     - A camera for looking at the beam profile: e.g. CS165MU1/M
     - Some shear plates for checking collimation: SI100 (5-10mm beams), SI050P (2.5-5mm beam plate) and SI254P (10-25.4mm beam plate).
