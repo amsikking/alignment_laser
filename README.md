@@ -22,20 +22,20 @@ Go to the [cad](https://github.com/amsikking/alignment_laser/tree/main/cad) fold
 ## Test:
 Download the repository, go to the [photos](https://github.com/amsikking/alignment_laser/tree/main/photos) folder and follow the numbered photos:
 
-0) **Check parts**: to follow exactly you’ll need these extra parts from Thorlabs:
+0) [**Check parts**](https://github.com/amsikking/alignment_laser/blob/main/photos/0_all_parts_used.jpg): to follow exactly you’ll need these extra parts from Thorlabs:
     - Absorptive ND filter wheel (or filter set) for beam attenuation: NDC-100S-4M or NEK01 (or both).
     - A camera for looking at the beam profile: e.g. CS165MU1/M
     - Some shear plates for checking collimation: SI100 (5-10mm beams), SI050P (2.5-5mm beam plate) and SI254P (10-25.4mm beam plate).
     - **Note:** If you don’t have these parts, you can do something similar with other tricks (e.g. alternative beam attenuation and profiling methods, and checking collimation with distance).
-1) **Check laser collimation:** attenuate the beam and use the 2.5-5mm shear plate to check the laser output is collimated.
-2) **Optional -> measure beam profile:** use a camera and compare the measured beam profile to the specification. Attenuate with ND filters on the camera and use the back reflection to align. See the [beam_profile_example](https://github.com/amsikking/alignment_laser/tree/main/beam_profile_example) folder and the [gaussian_beam_profiler](https://github.com/amsikking/gaussian_beam_profiler) repository for more.
-3) **Add target:** use an alignment card (or similar) and center the beam on a target.
-4) **Add 5x beam expander:** the large beam (iris open) should have a nice smooth profile over ~17.5mm.
-5) **Check beam deviation:** with a small ~1mm beam (iris closed), check the position of the beam on the target. A small deviation of a few mm is normal after adding the beam expander since we are relying on the mechanical alignment of the parts.
-6) **Add large shear plate:** With a small ~1mm beam, add the 10-25.4mm shear plate and use the double reflections to align the plate with the line on the frosted screen.
-7) **Check collimation:** Open the iris to ~17.5mm and check the collimation with the shear plate.
-8) **Adjust collimation:** use the beam expander adjuster to set the collimation with the shear plate.
-9) **Re-check collimation:** use the 5-10mm shear plate to double check collimation, then fix the position of the beam expander adjuster with the set screw.
+1) [**Check laser collimation:**](https://github.com/amsikking/alignment_laser/blob/main/photos/1_check_laser_collimation.jpg) attenuate the beam and use the 2.5-5mm shear plate to check the laser output is collimated.
+2) [**Optional -> measure beam profile:**](https://github.com/amsikking/alignment_laser/blob/main/photos/2_measure_laser_beam_profile.jpg) use a camera and compare the measured beam profile to the specification. Attenuate with ND filters on the camera and use the back reflection to align. See the [beam_profile_example](https://github.com/amsikking/alignment_laser/tree/main/beam_profile_example) folder and the [gaussian_beam_profiler](https://github.com/amsikking/gaussian_beam_profiler) repository for more.
+3) [**Add target:**](https://github.com/amsikking/alignment_laser/blob/main/photos/3_align_target_to_laser.jpg) use an alignment card (or similar) and center the beam on a target.
+4) [**Add 5x beam expander:**](https://github.com/amsikking/alignment_laser/blob/main/photos/4_add_collimator_and_iris.jpg) the large beam (iris open) should have a nice smooth profile over ~17.5mm.
+5) [**Check beam deviation:**](https://github.com/amsikking/alignment_laser/blob/main/photos/5_close_iris_and_check_beam_deviation.jpg) with a small ~1mm beam (iris closed), check the position of the beam on the target. A small deviation of a few mm is normal after adding the beam expander since we are relying on the mechanical alignment of the parts.
+6) [**Add large shear plate:**](https://github.com/amsikking/alignment_laser/blob/main/photos/6_add_large_shear_plate.jpg) With a small ~1mm beam, add the 10-25.4mm shear plate and use the double reflections to align the plate with the line on the frosted screen.
+7) [**Check collimation:**](https://github.com/amsikking/alignment_laser/blob/main/photos/7_check_collimation_with_large_shear_plate.jpg) Open the iris to ~17.5mm and check the collimation with the shear plate.
+8) [**Adjust collimation:**](https://github.com/amsikking/alignment_laser/blob/main/photos/8_adjust_collimation_with_large_shear_plate.jpg) use the beam expander adjuster to set the collimation with the shear plate.
+9) [**Re-check collimation:**](https://github.com/amsikking/alignment_laser/blob/main/photos/9_check_collimation_with_medium_shear_plate.jpg) use the 5-10mm shear plate to double check collimation, then fix the position of the beam expander adjuster with the set screw.
 
 If the testing goes smoothly, the portable alignment laser is now ready to use!
 
